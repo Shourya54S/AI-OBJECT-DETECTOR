@@ -1,0 +1,38 @@
+.heading 
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#status
+{
+font-size: 18px;
+}
+body{
+background-size:cover;
+background-position:center;    
+}
+#Heading{
+text-decoration:underline black 3px;
+border-style:solid;
+border-radius:100px;
+padding-left:50px;
+padding-right:50px;
+border-color:black;
+border-width:7px;
+}
+canvas{
+box-shadow:10px 10px 10px skyblue;
+border-radius:100px;
+border-color:blue;
+}
+#Back-Mob{
+position:fixed;
+bottom:5;
+left:5;
+width:60px;
+background-color:lightcoral;
+line-height:1;
+border-style:solid;
+text-align:center;
+}
